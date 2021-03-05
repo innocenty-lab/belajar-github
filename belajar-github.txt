@@ -1,0 +1,8 @@
+BELAJAR GITHUB
+
+istilah dalam GIT :
+
+1. Commit
+2. Checkout
+3. Branch
+4. Merge
