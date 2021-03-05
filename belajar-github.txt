@@ -4,3 +4,4 @@ istilah dalam GIT :
 
 1. Pull
 2. Push
+3. Commit
