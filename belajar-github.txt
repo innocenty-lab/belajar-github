@@ -7,3 +7,4 @@ istilah dalam GIT :
 3. Commit
 
 penambahan oleh ajirian
+ini menggunakan githubdesktop
